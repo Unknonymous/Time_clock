@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: solid 1px red;
+}
+body{
+    width: 980px;
+    background-color: black;
+}
+#wrapper{
+    background-color: darkblue;
+    width: 735px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+#curr{
+    border: 1px solid darkslategrey;
+}
+#display{
+    border: 1px solid darkslategrey;
+
+}
